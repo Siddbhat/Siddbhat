@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siddbhat
+- 👋 Hi, I’m @Siddbhat (Siddharth Bhat)
 - 👀 I’m interested in Embedded projects
 - 🌱 I’m currently Working in Delta IOT Solutions ...
 - 💞️ I’m looking to collaborate on Embedded Projects
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/sidarathbhat786/ 
 
 <!---
 Siddbhat/Siddbhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
